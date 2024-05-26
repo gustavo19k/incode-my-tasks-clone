@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Red Hat Display", System-ui;
+    height: 100%;
+    font: 400 3rem;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    max-width: 500px;
+    width: 75%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.logo {
+    height: 75px;
+}
+
+.container {
+    width: 100%;
+    margin-bottom: 2rem;
+}
