@@ -1,4 +1,4 @@
-# Fork de um projeto feito pelo [João](https://github.com/paodelonga)
+# Fork de um projeto feito pelo [pão](https://github.com/paodelonga)
 
 <div align="center">
 
