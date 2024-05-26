@@ -34,3 +34,15 @@ body {
     width: 100%;
     margin-bottom: 2rem;
 }
+
+.container img{
+    padding: 15px;
+}
+
+.container .task-box{
+    background-color: #242529;
+    padding: 38px;
+    border-radius: 24px;
+    width: 100%;
+}
+
