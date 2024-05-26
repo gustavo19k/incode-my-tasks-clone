@@ -1,6 +1,6 @@
 # Documentação do Código
 
-Este é um exemplo de uma aplicação de lista de tarefas (ou "to-do list") em JavaScript. Vamos analisar cada parte:
+Este é um exemplo de uma aplicação de lista de tarefas (ou "to-do list") em HTML, CSS E Javascript. Este código aqui está documentado brevemente, e é a parte do JS.
 
 1. `document.addEventListener('DOMContentLoaded', function () {...})`: Este código está escutando o evento `DOMContentLoaded`, que é disparado quando todo o HTML foi completamente carregado e analisado. Quando esse evento é disparado, a função anônima dentro dele é executada.
 
