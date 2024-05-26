@@ -13,19 +13,20 @@
 ## Sumário
 | índice            | Seção                                                             |
 | ----------------- | ------------------------------------------------------------------|
-| 1.                | [Sobre](## Sobre)                                                 |
-| 2.                | [Estrutura](## Estrutura)                                         |
-| 3.                | [Código](## codigo)                                               |
-| 4.                | [Licença](## licenca)                                             |
+| 1.                | [Sobre](#Sobre)                                                   |
+| 2.                | [Estrutura](#Estrutura)                                           |
+| 3.                | [Código](#codigo)                                                 |
+| 4.                | [Licença](#licenca)                                               |
 
 
 </div>
 
-## Sobre 
+# Sobre 
+
+<p>Este é um projeto de Fork do repositório incode-my-tasks do pao de longa. Está todo documentado neste mesmo repositório com duas branchs: *main* e *gh-pages*</p>
 
 
-
-## Estrutura
+# Estrutura
 
 ```
 .
