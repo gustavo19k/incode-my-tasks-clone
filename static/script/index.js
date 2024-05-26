@@ -1,9 +1,8 @@
 document.addEventListener('DOMContentLoaded', function () {
     const taskInput = document.querySelector('.task-input');
-    const taskSubmit = document.querySelector('.taskSubmit');
-    const taskList = document.querySelector('.tasklist ul');
+    const taskSubmit = document.querySelector('.task-submit');
+    const taskList = document.querySelector('.task-list ul');
     const taskClear = document.querySelector('.task-clear');
-
 
     function addTask() {
         if (taskInput.value.trim() !== '') {
@@ -20,19 +19,18 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 
-
     taskSubmit.addEventListener('click', addTask);
 
 
-    taskInput.addEventListener('keypress', function(e){
-        if (e.key === 'Enter') {
+    taskInput.addEventListener('keypress', function (eventKeyboard) {
+        if (eventKeyboard.key === 'Enter') {
             addTask();
         }
     });
 
 
-    taskClear.addEventListener('click', function(){
-        while (taskList.firstChild){
+    taskClear.addEventListener('click', function () {
+        while (taskList.firstChild) {
                 taskList.removeChild(taskList.firstChild);
             }
     });
