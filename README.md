@@ -44,7 +44,7 @@
 
 ## codigo
 
-o código fonte deste repositório pode ser encontrado na branch [gh-pages] ou no submódulo [source-Code](https://github.com/gustavo19k/incode-my-tasks-clone/tree/3e498f8afeb4627ccd48071d3435b4c4882b6885)
+o código fonte deste repositório pode ser encontrado na branch [gh-pages].
 
 
 ## Referências
