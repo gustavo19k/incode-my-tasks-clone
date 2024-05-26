@@ -62,3 +62,13 @@ body {
     padding: 10px;
     border-radius: 5px;
 }
+
+.container .task-box .task-entry .task-submit{
+    background-color: #4392F1;
+    color: #FFFFFE;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 2rem;
+}
