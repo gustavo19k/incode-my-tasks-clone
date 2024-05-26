@@ -35,18 +35,18 @@ body {
     margin-bottom: 2rem;
 }
 
-.container img{
+.container img {
     padding: 15px;
 }
 
-.container .task-box{
+.container .task-box {
     background-color: #242529;
     padding: 38px;
     border-radius: 24px;
     width: 100%;
 }
 
-.container .task-box .task-entry{
+.container .task-box .task-entry {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -63,7 +63,7 @@ body {
     border-radius: 5px;
 }
 
-.container .task-box .task-entry .task-submit{
+.container .task-box .task-entry .task-submit {
     background-color: #4392F1;
     color: #FFFFFE;
     border: none;
@@ -71,4 +71,47 @@ body {
     border-radius: 5px;
     cursor: pointer;
     font-size: 2rem;
+}
+
+.container .task-box .task-list {
+    margin: 0;
+    color: #FFFFFE;
+}
+
+.container .task-box .task-entry .task-entry {
+    transition: box-shadow 0.3s ease;
+}
+
+
+.container .task-box .task-entry .task-input:focus {
+    box-shadow: 0 0 0 6px #4392F1;
+
+}
+
+.container .task-box .task-list .task-clear {
+    background: none;
+    color: #4392F1;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+
+}
+
+
+.container .task-box .task-clear {
+    display: block;
+    background-color: #4392F1;
+    color: #FFFFFE;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 1rem;
+    align-self: flex-end;
+}
+
+.container .task-box .task-clear:hover{
+    color: #FF5733;
+    transition: color 0.10s ease;
 }
