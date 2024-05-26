@@ -99,6 +99,15 @@ body {
 }
 
 
+.container .task-box .task-list button {
+    background: none;
+    color: #4392F1;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin-left: 1rem;
+}
+
 .container .task-box .task-clear {
     display: block;
     background-color: #4392F1;
