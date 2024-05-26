@@ -2,6 +2,3 @@
 	path = source-code-1
 	url = https://github.com/gustavo19k/incode-my-tasks-clone
 	branch = gh-pages
-[submodule "source-code-"]
-	path = source-code-
-	url = https://github.com/gustavo19k/incode-my-tasks-clone
