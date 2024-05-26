@@ -11,12 +11,12 @@
 <div align="right">
 
 ## Sumário
-| índice            | Seção                                                            |
-| ----------------- | ---------------------------------------------------------------- |
-| 1.                | [Sobre](##Sobre)                                                 |
-| 2.                | [Estrutura](##Estrutura)                                         |
-| 3.                | [Código](##codigo)                                               |
-| 4.                | [Licença](##licenca)                                             |
+| índice            | Seção                                                             |
+| ----------------- | ------------------------------------------------------------------|
+| 1.                | [Sobre](## Sobre)                                                 |
+| 2.                | [Estrutura](## Estrutura)                                         |
+| 3.                | [Código](## codigo)                                               |
+| 4.                | [Licença](## licenca)                                             |
 
 
 </div>
