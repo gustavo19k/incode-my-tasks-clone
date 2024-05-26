@@ -46,3 +46,19 @@ body {
     width: 100%;
 }
 
+.container .task-box .task-entry{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.container .task-box .task-entry .task-input {
+    flex-grow: 1;
+    margin-right: 1rem;
+    border: 2px solid #4392F1;
+    background-color: #FFFFFE;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+}
